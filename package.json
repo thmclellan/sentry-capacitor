@@ -83,14 +83,6 @@
     "ts-jest": "^26.4.4",
     "typescript": "^4.0.5"
   },
-  "files": [
-    "*",
-    "dist/",
-    "ios/",
-    "android/",
-    "SentryCapacitor.podspec",
-    "scripts/check-siblings.js"
-  ],
   "capacitor": {
     "ios": {
       "src": "ios"
