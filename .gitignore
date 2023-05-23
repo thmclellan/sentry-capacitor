@@ -23,7 +23,7 @@ example/ionic-angular*/.angular
 
 # iOS files
 Pods
-Build
+# Build
 xcuserdata
 
 # macOS files
